@@ -1,0 +1,9 @@
+pandas
+scipy 
+openai==0.28
+gtts 
+sounddevice
+audiofile
+pyttsx3
+keyboard
+playsound
