@@ -6,4 +6,3 @@ sounddevice
 audiofile
 pyttsx3
 keyboard
-playsound
