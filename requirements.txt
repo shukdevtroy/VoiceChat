@@ -6,3 +6,4 @@ sounddevice
 audiofile
 pyttsx3
 keyboard
+streamlit
